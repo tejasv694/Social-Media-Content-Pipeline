@@ -16,7 +16,7 @@ This system runs across two n8n workflows that communicate through Google Sheets
 
 ## Architecture
 
-![Content Automation Architecture](./architecture.png)
+![Content Automation Architecture](./Architecture.png)
 
 ---
 
@@ -131,9 +131,9 @@ When Workflow 1 reaches the `Wait for Human Approval` node, it writes its webhoo
 
 ## Request Access
 
-The full workflow JSON files are available on request — not published here to prevent credential exposure and unsupported production cloning.
+The full workflow JSON files are available on request 
 
-Open a [GitHub Issue](../../issues) titled **"Workflow Request"** or reach out via [LinkedIn](https://linkedin.com/in/yourprofile).
+reach out via [LinkedIn](https://www.linkedin.com/in/tejasv-makkar/).
 
 ---
 
